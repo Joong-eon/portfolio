@@ -4,7 +4,7 @@
 - [x] https://github.com/Joong-eon/Mosquito<br>
    📑처음으로 배운 언어인 자바로 객체지향의 의미를 파악하기 위한 미니게임 팀 프로젝트( 팀 프로젝트)<br>
    📅개발 기간 : 2020년 10월 - 2020년 10월<br>
-   💻기술 스택 : Java
+   💻기술 스택 : Java<br>
 
 >2. 틈
 - [x] https://github.com/Joong-eon/AccommodationWeb<br>
@@ -13,7 +13,7 @@
    💻기술 스택 : <br>
                backend - Java, JSP, Servlet<br>
                frontend - Javascript<br>
-               Database - Oracle<br>
+               Database - Oracle<br><br>
 
 >3. 올바른생각
 - [x] https://github.com/Joong-eon/AllBareun<br>
